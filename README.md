@@ -1,1 +1,1 @@
-codeWars CodePuzzle/problems/Kata solved predominantly in C#
+CodeWars CodePuzzle/problems/Kata solved predominantly in C#
